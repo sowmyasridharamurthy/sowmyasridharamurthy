@@ -1,4 +1,4 @@
-<img width="545" alt="Screenshot 2022-03-25 at 18 49 22" src="https://user-images.githubusercontent.com/35350156/160174867-dcf8e36b-d99c-4656-b9d6-8a28b8f60c95.png">
+<p align="center"><img width="545"  alt="Screenshot 2022-03-25 at 18 49 22" src="https://user-images.githubusercontent.com/35350156/160174867-dcf8e36b-d99c-4656-b9d6-8a28b8f60c95.png"></p>
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 - 👀 I’m interested in fitness, travelling, biographies, little coding 
