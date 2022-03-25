@@ -1,8 +1,7 @@
 <p align="center"><img width="545"  alt="Screenshot 2022-03-25 at 18 49 22" src="https://user-images.githubusercontent.com/35350156/160174867-dcf8e36b-d99c-4656-b9d6-8a28b8f60c95.png"></p>
-<h3 align="center">A passionate quality leader, who believe in inclusive development.</h3>
+<h3 align="center">A passionate quality leader, believer of inclusive development.</h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sowmyasridharamurthy&label=Profile%20views&color=0e75b6&style=flat" alt="sowmyasridharamurthy" /> </p>
 --------------------------------------------------------------------------------------------------------------------------------------
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sowmyasridharamurthy&label=Profile%20views&color=0e75b6&style=flat" alt="sowmyasridharamurthy" /> </p>
 
 - 🌱 I’m currently learning **VueJs , StoryBook Components**
 
