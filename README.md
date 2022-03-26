@@ -13,8 +13,10 @@
 
 <h3 align="left"><b>Connect with me:</b></h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/sowmyasridharamurthy/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/sowmyasridharamurthy/" height="40" width="100" /></a>
- <a href="https://sowmyasridharamurthy.blogspot.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="https://www.linkedin.com/in/sowmyasridharamurthy/" height="40" width="100" /></a>
+<a href="https://www.linkedin.com/in/sowmyasridharamurthy/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/sowmyasridharamurthy/" height="30" width="100" /></a>
+ <a href="https://sowmyasridharamurthy.blogspot.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="https://sowmyasridharamurthy.blogspot.com/" height="30" width="100" /></a>
+ <a href="https://www.goodreads.com/user/show/119819850-sowmya-sridharamurthy" target="blank"><img align="center" src="https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white" alt="https://www.goodreads.com/user/show/119819850-sowmya-sridharamurthy" height="30" width="100"/></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
